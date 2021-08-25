@@ -9,7 +9,7 @@ CREATE TABLE `heroes` (
   `realname` varchar(200) NOT NULL,
   `rating` int NOT NULL,
   `teamaffiliation` varchar(100) NOT NULL
-) ENGINE=InnoDB DEFAULT CHARSET=latin1;
+) 
 
 
 
